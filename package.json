@@ -1,6 +1,6 @@
 {
   "name": "vue-toast-demo-xj",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a Vue Toast Demo for xujiong",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "git repository": "https://github.com/xujiongx/vue-toast-demo-xj.git",
   "keywords": [],
-  "author": "",
+  "author": "xujiongx",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
